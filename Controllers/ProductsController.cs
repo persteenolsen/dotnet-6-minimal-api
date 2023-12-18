@@ -10,8 +10,8 @@ public class ProductsController : ControllerBase
 {
     private List<Product> _products = new List<Product>
     {
-        new Product { Id = 1, Name = "Milo" },
-        new Product { Id = 2, Name = "Tim Tams" }
+        new Product { Id = 1, Name = "Tuborg" },
+        new Product { Id = 2, Name = "Coca Cola" }
     };
 
     [HttpGet]
