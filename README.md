@@ -34,7 +34,7 @@ At my remote servers the web.config needs to be without the folowing:
 
 hostingModel="inprocess"
 
-# Test the Web API
+# Test the Produtcs 
 
 - yourhost/products
 
