@@ -10,7 +10,7 @@ dotnet new globaljson --sdk-version 6.0.320 --force
 
 - A Simple Web API
 - Display a list of Products
-- Display a Product by a Id
+- Display a Product by a selected Id
 
 # Tech used for creating the Web App
 
