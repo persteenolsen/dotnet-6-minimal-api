@@ -1,6 +1,6 @@
 # dotnet-6-minimal-api
 
-A minimal Web API created by .NET 6.0
+A simple Web API created by .NET 6.0 serving as a Basic Starter
 
 # Create a global json
 
